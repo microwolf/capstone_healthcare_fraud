@@ -1,4 +1,4 @@
-,Provider,group,dup_claim_states,dup_claim_states_num,dup_claim_multi_state
+,Provider,group,DupClaimStates,DupClaimStatesNum,DupClaimMultiState
 0,PRV51003,[593],"[1, 31]",2,yes
 1,PRV51021,[ 74 645],"[1, 5]",2,yes
 2,PRV51023,[229],"[1, 5]",2,yes
