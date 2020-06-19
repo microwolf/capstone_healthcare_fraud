@@ -1,0 +1,21 @@
+Provider : Unique provider 
+
+SharePhysician: boolean where a physician worked in two different hospital or not
+
+MergeTotalClaim: Total Claim per provider for of both in and out patient file
+
+MergeTotalPatient:Total patient per provider for both in and out patient
+
+MergeAvgClaimReimbursed: AvgClaimReimbursed per provider for of both in and ou patient file
+
+PotentialFraud: boolean wheter mark as fraud	
+
+NumTopCodeClaim: Total claim for top 10 code involved in fraud
+
+InTotalClaim: Total Claim per provider for in patient file	
+
+InAvgClaimReimbursed: AvgClaimReimbursed per provider for in patient file
+
+OutAvgClaimReimbursed: AvgClaimReimbursed per provider for in patient file
+
+OutTotalClaim: Total Claim per provider for out patient file	
