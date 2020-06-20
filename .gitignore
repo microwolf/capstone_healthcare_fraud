@@ -2,3 +2,4 @@ files/
 *conflicted copy*
 contributors/lu/processed_data/*
 contributors/lu/output/*
+*.ipynb_checkpoints*
